@@ -14,3 +14,7 @@ Init native project
 Init - interactive CLI with project options
 
 >`expo init`
+
+Setting up eslint
+
+>`npm install --save-dev eslint babel-eslint eslint-plugin-react`
