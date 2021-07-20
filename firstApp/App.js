@@ -3,11 +3,12 @@ import React from 'react';
 import { StyleSheet, Text, View } from 'react-native';
 
 import Main from './src/Main';
+import RepositoryList from './src/RepositoryList';
 
 export default function App() {
     console.log("test");
   return (
-    <Main/>
+    <RepositoryList/>
   );
 }
 
