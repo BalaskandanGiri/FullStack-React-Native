@@ -18,3 +18,13 @@ Init - interactive CLI with project options
 Setting up eslint
 
 >`npm install --save-dev eslint babel-eslint eslint-plugin-react`
+
+
+## Learnings
+
+Core react components are the building blocks using which react native app is built.
+1. `<Text>`
+2. `<View>` - Similar to div
+3. `<TextInput>` - Similar to input        
+4. `<Pressable>` - Similar to button
+   
