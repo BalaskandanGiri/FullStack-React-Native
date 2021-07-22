@@ -8,7 +8,7 @@ import RepositoryList from './src/RepositoryList';
 export default function App() {
     console.log("test");
   return (
-    <RepositoryList/>
+    <Main></Main>
   );
 }
 

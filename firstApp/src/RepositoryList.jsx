@@ -63,7 +63,6 @@ const RepositoryList = () => {
       data={repositories}
       ItemSeparatorComponent={ItemSeparator}
       renderItem={RepositoryItem}
-      style={{paddingTop: 20}}
     />
   );
 };
